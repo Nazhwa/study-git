@@ -1,3 +1,3 @@
 console.log("Selamat Datang");
 console.log("Nazhwa Nur Syabrina");
-console.log("Aku Berusisa 18 tahun");
+console.log("Aku Berusia 18 tahun");
